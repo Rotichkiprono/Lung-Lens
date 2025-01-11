@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow-cpu
+pillow
+scikit-learn
+pydantic
+protobuf
+typing-extensions
+python-multipart
+pydicom
+keras
